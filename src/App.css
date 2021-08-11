@@ -1,0 +1,23 @@
+*{
+  font-family: 'Source Sans Pro', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.flexbox{
+  display: flex;
+}
+
+html{
+  --blue:#B5EAEA;
+  --blueDark:#8abdbd;
+  --peach:#FFBCBC;
+  --peachDark:#b18989;
+  --green:#ceeeb2;
+  --greenLight:#e4f0db;
+  --greenDark:#92af7b;
+  --error:crimson;
+  --disabled:#8b8b8b;
+  --shadow:rgba(146, 175, 123, 0.2);
+  --modalBack:rgba(197, 197, 197, 0.7)
+}
